@@ -28,6 +28,21 @@
   color: #61dafb;
 }
 
+.bc {
+  background-image:url("https://i.pinimg.com/originals/47/70/cf/4770cf05fe96befcdcd74204ba533198.jpg");
+  margin-left: 100px;
+  width: 1000px;
+height: 1000px;
+}
+
+img{
+  padding-left: 10px; 
+  margin: 20px;
+    width: 241px;
+  height: 167px
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
