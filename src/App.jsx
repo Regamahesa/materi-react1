@@ -9,7 +9,7 @@ const App = () => {
     <div>
       <Navbar />
       <Routes>
-        <Route path="/about" element={<About />} />
+        <Route path="/" element={<About />} />
         <Route path="/cv" element={<Curicullum />} />
       </Routes>
     </div>
